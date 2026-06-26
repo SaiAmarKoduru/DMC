@@ -8,7 +8,7 @@ This GitHub is organized into four primary repositories, each representing a dif
 
 ## 🚀 Featured Repositories
 
-### 🥗 NutriLabe
+### 🥗 NutriLabe (Current)
 **AI-Powered Nutrition Analysis Platform**
 
 NutriLabe is my flagship full-stack project that analyzes recipes and ingredients to generate detailed nutrition labels, health scores, and personalized insights. The project combines modern web technologies with AI to make nutrition information more accessible and understandable.
@@ -24,7 +24,7 @@ NutriLabe is my flagship full-stack project that analyzes recipes and ingredient
 
 ---
 
-### 🤝 CoBond
+### 🤝 CoBond (In Development) 
 **Collaborative Platform**
 
 CoBond is a full-stack application focused on collaboration and shared experiences. It is designed to explore scalable application architecture, modern authentication systems, efficient database management, and interactive user experiences.
@@ -39,7 +39,7 @@ CoBond is a full-stack application focused on collaboration and shared experienc
 
 ---
 
-### 💼 Portfolio
+### 💼 Portfolio (Coming Soon)
 **Personal Developer Portfolio**
 
 My portfolio serves as a central hub showcasing my projects, technical skills, certifications, achievements, and professional journey. It provides recruiters and fellow developers with a comprehensive overview of my work and experience.
@@ -53,7 +53,7 @@ My portfolio serves as a central hub showcasing my projects, technical skills, c
 
 ---
 
-### 💻 LeetCode Solutions
+### 💻 LeetCode Solutions (Current)
 **Data Structures & Algorithms**
 
 This repository contains my accepted LeetCode solutions, primarily written in Java, documenting my continuous practice of Data Structures and Algorithms. It serves as both an interview preparation resource and a record of my problem-solving progress.
@@ -107,15 +107,15 @@ Through these repositories, I aim to:
 - Express.js
 
 **Databases**
-- PostgreSQL
+- PostgreSQL / MySQL
 - MongoDB
 
 **Tools**
 - Git
 - GitHub
-- Docker
-- Postman
 - VS Code
+- Overleaf
+- Sheets
 
 ---
 
